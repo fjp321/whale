@@ -10,4 +10,4 @@ Will it make me giggle everytime?
 
 Absolutely.
 
-https://raw.github.com/fjp321/whale/main/test_build.mp4
+![](test_build.mp4)
