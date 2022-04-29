@@ -10,6 +10,4 @@ Will it make me giggle everytime?
 
 Absolutely.
 
-<video width="320" height="240" controls>
-  <source src="test_build.mp4" type="video/mp4">
-</video>
+![video isn't showing up :(](test_build.mp4)
