@@ -10,4 +10,6 @@ Will it make me giggle everytime?
 
 Absolutely.
 
-![](test_build.mp4)
+<video width="320" height="240" controls>
+  <source src="test_build.mp4" type="video/mp4">
+</video>
